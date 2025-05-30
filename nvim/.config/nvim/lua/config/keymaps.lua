@@ -69,4 +69,5 @@ Map("n", "<C-u>", "<C-u>zz")
 Map("n", "n", "nzzzv")
 Map("n", "N", "Nzzzv")
 
+Map("n", "<leader>w", "<cmd> w <CR>")
 Map("n", "<leader>qq", "<cmd> wq <CR>")
