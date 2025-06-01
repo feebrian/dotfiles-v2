@@ -49,3 +49,8 @@ require("mason").setup()
 
 -- comment
 require("Comment").setup()
+
+-- notify
+require("notify").setup({
+	background_colour = "#000000",
+})
