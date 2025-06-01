@@ -69,5 +69,11 @@ Map("n", "<C-u>", "<C-u>zz")
 Map("n", "n", "nzzzv")
 Map("n", "N", "Nzzzv")
 
+-- Lazy
+Map("n", "<leader>l", "<cmd> Lazy <CR>")
+
+-- Mason
+Map("n", "<leader>m", "<cmd> Mason <CR>")
+
 Map("n", "<leader>w", "<cmd> w <CR>")
 Map("n", "<leader>qq", "<cmd> wq <CR>")
